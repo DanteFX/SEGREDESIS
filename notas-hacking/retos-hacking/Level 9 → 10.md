@@ -6,7 +6,7 @@ The password for the next level is stored in the file **data.txt** in one of t
 
 ## Datos de acceso
 bandit.labs.overthewire.org
-bandit8
+bandit9
 UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
 
 ## Solución

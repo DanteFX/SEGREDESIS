@@ -9,6 +9,7 @@ bandit.labs.overthewire.org
 bandit1
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ## Solución
+
 ![[Pasted image 20220828074430.png]]
 ## Notas adicionales
 

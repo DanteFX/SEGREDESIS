@@ -6,11 +6,13 @@ The password for the next level can be retrieved by submitting the password of t
 ## Datos de acceso
 bandit.labs.overthewire.org
 bandit14
-4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
 
 ## Solución
+```bash
 nc -v localhost 30000
 BfMYroe26WYalil77FoDi9qh59eK5xNr
+```
 ## Notas adicionales
 
 ## Referencias

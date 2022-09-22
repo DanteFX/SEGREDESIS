@@ -6,13 +6,15 @@ The password for the next level is stored in **/etc/bandit_pass/bandit14 and ca
 ## Datos de acceso
 bandit.labs.overthewire.org
 bandit13
-8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 
 ## Solución
+```bash
 ls
 ssh -i sshkey.private bandit14@localhost
 cat /etc/bandit_pass/bandit14
 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+```
 ## Notas adicionales
 
 ## Referencias

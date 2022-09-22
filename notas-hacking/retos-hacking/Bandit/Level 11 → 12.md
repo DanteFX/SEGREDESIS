@@ -6,12 +6,14 @@ The password for the next level is stored in the file **data.txt**, where all l
 ## Datos de acceso
 bandit.labs.overthewire.org
 bandit11
-IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 
 ## Solución
+```bash
 ls
 cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+```
 ## Notas adicionales
 
 ## Referencias

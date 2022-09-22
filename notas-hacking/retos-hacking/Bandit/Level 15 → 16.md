@@ -7,11 +7,13 @@ Helpful note: Getting “HEARTBEATING” and “Read R BLOCK”? Use -ign_eof an
 ## Datos de acceso
 bandit.labs.overthewire.org
 bandit15
-BfMYroe26WYalil77FoDi9qh59eK5xNr
+jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
 
 ## Solución
+```bash
 openssl s_client -connect localhost:30001
 cluFn7wTiGryunymYOu4RcffSxQluehd
+```
 ## Notas adicionales
 
 ## Referencias

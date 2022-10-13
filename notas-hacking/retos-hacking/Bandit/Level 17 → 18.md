@@ -10,6 +10,12 @@ bandit17.key
 
 ## Solución
 ```bash
+bandit17@bandit:~$ diff passwords.new passwords.old
+42c42
+< hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
+---
+> 09wUIyMU4YhOzl1Lzxoz0voIBzZ2TUAf
+bandit17@bandit:~$ 
 
 ```
 
@@ -17,4 +23,3 @@ bandit17.key
 ## Notas adicionales
 
 ## Referencias
-[Port scanner on Wikipedia](https://en.wikipedia.org/wiki/Port_scanner)
